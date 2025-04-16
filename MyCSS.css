@@ -1,0 +1,81 @@
+body {
+    background-color: powderblue;
+}
+
+header {
+    width: 80%;
+    margin: auto;
+    background-color: aquamarine;
+    padding: 20px;
+    text-align: center;
+    color: rgb(0, 75, 174);
+}
+
+nav {
+    background-color: darkslategray;
+    overflow: hidden;
+    width: 80%;
+    margin: auto;
+    padding: 0px 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+nav a {
+    float: left;
+    color: rgb(217, 245, 7);
+    text-align: center;
+    padding: 15px 25px;
+    text-decoration: none;
+    border-right: solid aquamarine;
+}
+
+nav a:hover {
+    background-color: black;
+    color: aqua;
+}
+
+section {
+    width: 80%;
+    margin: auto;
+    background-color: aquamarine;
+    padding: 20px;
+}
+
+article {
+    width: 80%;
+    margin: auto;
+    background-color: aquamarine;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+div {
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+
+details {
+    width: 70%;
+    background-color: rgb(178, 249, 225);
+    padding: 20px;
+}
+
+aside {
+    width: 30%;
+    background-color: rgb(197, 255, 236);
+    padding: 20px;
+}
+
+footer {
+    width: 80%;
+    margin: auto;
+    background-color: aquamarine;
+    padding: 10px 20px;
+    text-align: center;
+    color: blue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
